@@ -11,3 +11,6 @@ Given the 'customer_churn.csv' file the data scientist is expected to:
 - Report features that may be an indicator that the customers will be more likely to leave
     
 ## Exploratory Data Analysis (EDA)
+Throughout the EDA, we're taking a look at some features to see how the target (churn) interacts with other columns
+
+![](images/Scatterplot.PNG)
