@@ -1,5 +1,9 @@
 # SyriaTel Customer Churn
 
+## Contributors
+- Eric Cusick
+- Trevor Mott
+
 ## Buisness Case
 The SyriaTel, a telecommunications company has enlisted the service of a data scientist for help. SyriaTel wants to know when customer are going to stop doing business with them. It is in their interest to be able to retain customers to continue to make profits.
 
@@ -53,7 +57,7 @@ The metric score preform quite well, the recall score and the F1 score are up hi
 ## Recommendations
 
 After looking at the model, I would recommend:
-- Increase the auality of customer services care to decrease the likelihood of being called multiple times
+- Increase the quality of customer services care to decrease the likelihood of being called multiple times
 - Provide a decreasing or dicount charge rate after hitting a cap of 240 call minutes instead of a flat rate or increasing charge. 
 - Give out some rewards or benefits for customers for their account length overtime to promote customer loyalty. 
 
